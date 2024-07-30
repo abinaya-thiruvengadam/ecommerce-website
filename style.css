@@ -623,6 +623,7 @@ section{
         background-position: left;
         justify-content: center;
         text-align: center;
+        min-height: 65vh;
     }
     .home .content h3{
         font-size: 4.5rem;
